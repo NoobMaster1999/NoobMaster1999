@@ -9,5 +9,5 @@
 - 💬 Ask me about anything you need in audio source separation like Deezer,Spliter and Computer Vison
 - 📫 How to reach me: soumenbasak0412@gmail.com
 - 😄 Pronouns: Simple to pronounce my name😄
-- ⚡ Fun fact: I like to mobile game
--->
+- ⚡ Fun fact: I like to play mobile game like BGMI and Freefire
+
