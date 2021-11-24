@@ -1,9 +1,6 @@
 ### Hi, I am Soumen Basak 👋
 
-<!--
-**NoobMaster1999/NoobMaster1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AMTDC IIT Madras as Research Intern
 - 🌱 I’m currently learning Pytorch framework for Visual Detection and also working on NLP project
