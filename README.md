@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on AMTDC IIT Madras as Research Intern
+- 🔭 I’m currently working on HSBC as Data Analyst Intern
 - 🌱 I’m currently learning Pytorch framework for Visual Detection and also working on NLP project
 - 👯 I’m looking to collaborate on any NLP Engineer and ML Engineer
 - 🤔 I’m looking for help with pytorch and keras framework for building an efficent model in my research field
