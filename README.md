@@ -1,4 +1,4 @@
-##👋 Hello, I'm Soumen Basak – a skilled Business Analyst with expertise in Qlik Sense, SAS, SQL, and Python.
+##👋 Hello, I'm Soumen Basak – a skilled Business Analyst with expertise in Qlik Sense, SAS, SQL, and Python, Machine Learning.
 
 -🎓 I hold a Bachelor's in Metallurgical Materials Engineering from NIT Durgapur, complemented by a minor in Computer Science. Outside work, my interest spans Financial Markets, Data Reporting, and Financial Analysis.
 
